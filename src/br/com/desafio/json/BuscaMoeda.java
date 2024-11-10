@@ -1,10 +1,7 @@
 package br.com.desafio.json;
 
 import br.com.desafio.dto.DtoMoedaConsulta;
-import br.com.desafio.modelo.ApiKey;
-import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 
 import java.io.IOException;
 import java.net.URI;
