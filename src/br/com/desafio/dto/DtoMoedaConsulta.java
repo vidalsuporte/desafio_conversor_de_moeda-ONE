@@ -7,4 +7,5 @@ import java.util.List;
 import java.util.Objects;
 
 public record DtoMoedaConsulta(String base_code, Moedas conversion_rates) {
+
 }
