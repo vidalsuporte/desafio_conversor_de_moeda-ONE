@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         BuscaMoeda buscaMoeda = new BuscaMoeda();
         try {
-            buscaMoeda.buscaMoeda("BRL");
+            buscaMoeda.buscaMoeda("USD");
 
 
         } catch (IOException e) {

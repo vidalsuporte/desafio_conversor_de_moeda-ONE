@@ -28,7 +28,7 @@ public class BuscaMoeda {
         System.out.println("--------------------");
         DtoMoedaConsulta dtoMoedaConsulta = gson.fromJson(response.body(), DtoMoedaConsulta.class);
 
-        System.out.println(dtoMoedaConsulta);
+        System.out.print(dtoMoedaConsulta);
 
 
 
